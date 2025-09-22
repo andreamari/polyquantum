@@ -1,37 +1,47 @@
-# License for contributions
+## What is Polyquantum?
 
-## Default licence: Polyquantum perpetual non-exclusive license to distribute
+_Polyquantum_ is an open platform for collaborative research in quantum science, structured as a GitHub repository.  
+It allows researchers to:
 
-This license is applied by default to all contributions, unless users explicitly select alternative options (see next section).
+- 💡 Share new research ideas openly  
+- 🛠️ Collaborate on ongoing projects proposed by others  
+- 📝 Preserve and track research contributions transparently  
 
-- I grant Polyquantum a perpetual, non-exclusive license to distribute the contributed material.
-- I certify that I have the right to grant this license.
-- I understand that the contributed content cannot be completely removed once accepted and merged.
-- I understand that Poliquantum reserves the right to reclassify or reject any contributed content.
+A key feature of Polyquantum is the transparent tracking of authorship.  
+By using [Git](https://it.wikipedia.org/wiki/Git_(software))’s distributed version control, every research step is permanently recorded in Markdown documents, ensuring proper recognition of contributors.  
 
-This is the same licence recommended by the [ArXiv](https://arxiv.org/licenses/nonexclusive-distrib/1.0/license.html) preprint repository. It gives Polyquantum the right to distribute your contribution, and it is the **recommended option** if you wish to publish your final results in a scientific journal.
+👉 More details about Polyquantum can be found in the [ABOUT.md](ABOUT.md) page.
 
-## Alternative licenses (require explicit reference in contributed documents)
+## Aim of Polyquantum
 
-To select one of the following licenses, users must specify it at the top of their contributed text.
+The aim of Polyquantum is to facilitate open and transparent collaborations at every step of the research process: from the initial brainstorming of ideas to the final publication of results.
 
-- **CC BY 4.0: Creative Commons Attribution.** This license allows reusers to distribute, remix, adapt, and build upon the material in any medium or format, so long as attribution is given to the creator. The license allows for commercial use.
+While there are many platforms for openly sharing finalized scientific work (e.g., open-access journals and preprint servers such as [arXiv](https://en.wikipedia.org/wiki/ArXiv)), there are few solutions for sharing early-stage ideas and the intermediate steps of research. These include:  
 
-- **CC BY-SA 4.0: Creative Commons Attribution-ShareAlike.** This license allows reusers to distribute, remix, adapt, and build upon the material in any medium or format, so long as attribution is given to the creator. The license allows for commercial use. If you remix, adapt, or build upon the material, you must license the modified material under identical terms.
+- brainstorming of ideas,
+- discussions with collaborators,  
+- connections with existing literature,  
+- tentative solutions,  
+- failures and changes of direction,  
+- experimental designs,
+- critical analysis of results,  
+- planning of the final manuscript.  
 
-- **CC BY-NC-SA 4.0: Creative Commons Attribution-Noncommercial-ShareAlike.** This license allows reusers to distribute, remix, adapt, and build upon the material in any medium or format for noncommercial purposes only, and only so long as attribution is given to the creator. If you remix, adapt, or build upon the material, you must license the modified material under identical terms.
+The goal of Polyquantum is to fill this gap.
 
-- **CC BY-NC-ND 4.0: Creative Commons Attribution-Noncommercial-NoDerivatives.** This license allows reusers to copy and distribute the material in any medium or format in unadapted form only, for noncommercial purposes only, and only so long as attribution is given to the creator.
+## Inspirations and name origin
 
-- **CC Zero: Creative Commons Zero.** This licence allows reusers to distribute, remix, adapt, and build upon the material in any medium or format, with no conditions.
+The Polyquantum project is inspired by the successful [Polymath project](https://en.wikipedia.org/wiki/Polymath_Project) initiated by [Timothy Gowers](https://en.wikipedia.org/wiki/Timothy_Gowers) and [Terence Tao](https://en.wikipedia.org/wiki/Terence_Tao). This explains the origin of the name _Polyquantum_. 
+The main differences are:
+ - Polymath is about mathematical research. Polyquantum is about quantum research.
+ - Polymath is structured as a [blog](https://polymathprojects.org/). Polyquantum is structured as a GitHub repository.
+ - Timothy Gowers and Terence Tao are both [Fields medalists](https://en.wikipedia.org/wiki/Fields_Medal). I'm not. (A minor detail...)
 
-# License for the structure of this repository
+The approach of Polyquantum is explicitly inspired by methodologies and tools from [open-source software](https://en.wikipedia.org/wiki/Open-source_software). GitHub and the underlying Git system are powerful, state-of-the-art tools for collaborative software development. Polyquantum aims to apply these same tools to open scientific research, recognizing that both domains share similar needs:  
+- efficient collaborative writing of documents,  
+- permanent recording of history,  
+- transparent and traceable authorship.  
 
-- **CC BY-SA 4.0: Creative Commons Attribution-ShareAlike.** This license allows reusers to distribute, remix, adapt, and build upon the material in any medium or format, so long as attribution is given to the creator. The license allows for commercial use. If you remix, adapt, or build upon the material, you must license the modified material under identical terms.
+## Aknowledgemnts
+I acknowledge Nathan Shammah and Will Zeng for discussions on the initial idea of Polyquantum back in 2020 and for the opportunity to pitch it with a lightning talk at [UnitaryCON 2023](https://unitary.foundation/community/2023/unitaryCON/). I also thank Stefano Zippilli, Arturo Arvizu for their help in testing and improving the structure of this repository.
 
-This is the same licence used by [Wikipedia](https://www.wikipedia.org/). 
-In practice, if you think it's useful, you are encouraged to copy and fork this project. For example, you are welcome to create:
-- A better Polyquantum project
-- A new Polychemistry project
-- A new Polybio project
-- Etc.

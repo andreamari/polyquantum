@@ -29,7 +29,7 @@ This is a reference [^1].
 - Link to the original issue andreamari/polyquantum#1.
 
 ## How to cite this research project as a whole
-Short reference: _Polyquantum 1_\
+Short reference: _Polyquantum 1_.\
 Full reference: _A. Alice, B. Bob, Title of this document, Polyquantum 1, (2025)_.
 
 ## How to cite this document (Optional)

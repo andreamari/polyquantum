@@ -15,7 +15,7 @@ By using [Git](https://it.wikipedia.org/wiki/Git_(software))’s distributed ver
 👉 More details about Polyquantum can be found in [ABOUT.md](ABOUT.md).
 
 ## 🛠️ How to contribute to existing research ideas/projects/problems
-1. Browse the [**Issues** section](https://github.com/andreamari/polyquantum_test/issues) to see existing research ideas/projects/problems.  
+1. Browse the [**Issues** section](https://github.com/andreamari/polyquantum/issues) to see existing research ideas/projects/problems.  
 2. Interact and discuss by commenting on specific issues.  
 3. To contribute original material (ideas, solutions, calculations, etc.) that is worth preserving in a (Git-tracked) document:  
    - 👉 Follow [this guide](docs/README.md) to create or edit a Markdown file in the subfolder `/docs/[ISSUE_NUMBER]/`.  For example, (for issue #1):

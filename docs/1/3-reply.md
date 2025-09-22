@@ -28,7 +28,7 @@ where $m_0$ is the rest mass of the particle.
 ## Link to original issue
 
 - Link to the original issue andreamari/polyquantum#1. (Recommended)
-- Link to the specific [issue comment]()   (Optional)
+- Link to the specific [issue comment](https://github.com/andreamari/polyquantum/issues/1#issuecomment-3319839196)   (Optional)
 
 [^1]: Charlie, *Another very important paper*, *Physics Journal* 1, 00002 (2025).
 

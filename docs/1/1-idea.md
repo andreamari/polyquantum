@@ -23,9 +23,10 @@ $$
 
 This is a reference [^1].  
 
-## Link to original issue
+[^1]: Alice and Bob, *A Very Important Paper*, *Physics Journal* 1, 00001 (2025).  
 
-- Link to the original issue andreamari/polyquantum#1. (Recommended)
+## Link to original issue
+- Link to the original issue andreamari/polyquantum#1.
 
 ## How to cite this project as a whole
 Short reference: _Plyquantum 1_\
@@ -35,8 +36,3 @@ Full reference: _A. Alice, B. Bob, Title of this document, Polyquantum 1, (2025)
 Short reference: _Plyquantum 1.1_.\
 Full reference: _A. Alice, B. Bob, Title of this document, Polyquantum 1.1, (2025)_.
 
-## Link to original issue
-
-This is a link to the original discussion andreamari/polyquantum#1.
-
-[^1]: Alice and Bob, *A Very Important Paper*, *Physics Journal* 1, 00001 (2025).  

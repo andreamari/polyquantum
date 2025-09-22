@@ -1,0 +1,43 @@
+name: Create folder and README.md in docs associated with a new issue
+
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  contents: write
+
+jobs:
+  create-project-folder:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Create docs folder and README
+        run: |
+          ISSUE_NUMBER=${{ github.event.issue.number }}
+          REPO=${{ github.repository }}   # extract owner/repo
+          # Make directory for the research project
+          mkdir -p docs/$ISSUE_NUMBER
+
+          # Create a README.md associated to the issue
+          echo "# Polyquantum $ISSUE_NUMBER: ${{ github.event.issue.title }}" > docs/$ISSUE_NUMBER/README.md
+          echo "" >> docs/$ISSUE_NUMBER/README.md
+          echo "Here you can find all the version-controlled Markdown documents associated with this project." >> docs/$ISSUE_NUMBER/README.md
+          echo "- For the full discussion, see the **original issue** $REPO#$ISSUE_NUMBER." >> docs/$ISSUE_NUMBER/README.md
+          echo "- To **view** an existing document, just click on the file name." >> docs/$ISSUE_NUMBER/README.md
+          echo "- To **add** a new document, click the _Add file_ button at the top right and follow [this guide](../README.md)." >> docs/$ISSUE_NUMBER/README.md
+          echo "- To **edit** an existing document, first click on the file name, then click the _Edit_ (✏️) button at the top right and follow [this guide](../README.md)." >> docs/$ISSUE_NUMBER/README.md
+
+      - name: Commit and push changes
+        run: |
+          ISSUE_NUMBER=${{ github.event.issue.number }}
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/$ISSUE_NUMBER/README.md
+          git commit -m "Add docs/$ISSUE_NUMBER/README.md associated to issue #$ISSUE_NUMBER"
+          git push

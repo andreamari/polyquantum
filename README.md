@@ -29,7 +29,7 @@ By using [Git](https://it.wikipedia.org/wiki/Git_(software))’s distributed ver
 
 
 ## 💡 How to share a new research idea/project/problem
-1. Open a [new issue](https://github.com/andreamari/polyquantum_test/issues/new/choose) describing your idea/project/problem.
+1. Open a [new issue](https://github.com/andreamari/polyquantum/issues/new/choose) describing your idea/project/problem.
 2. A new subfolder `/docs/[ISSUE_NUMBER]/` containing a `README.md` file (referencing your new issue) will be automatically created. 
 3. To preserve your idea/project/problem in a (Git-tracked) document:  
    - 👉 Follow [this guide](docs/README.md) to create a new Markdown file in the subfolder `/docs/[ISSUE_NUMBER]/`.  For example, (for issue #1):

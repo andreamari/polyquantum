@@ -29,13 +29,13 @@ $$
 
 where $m_0$ is the rest mass of the particle [^1].
 
-[^1]: Charlie, *Another very important paper*, *Physics Journal* 42, 00001 (2025).  
+[^1]: Charlie, *Another very important paper*, *Physics Journal* 1, 00002 (2025).  
 
 
 
 ## Link to original issue
 
-- Link to the original issue andreamari/polyquantum_test#24. (Recommended)
+- Link to the original issue andreamari/polyquantum_test#1. (Recommended)
 - Link to the specific [issue comment](https://github.com/andreamari/polyquantum_test/issues/24#issuecomment-3319000544)   (Optional)
 
 

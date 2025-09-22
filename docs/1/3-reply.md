@@ -3,7 +3,7 @@ _A. Alice_\
 _University of Alice_
 
 In [Polyquantum 1.1](1-idea.md) B. Bob and I proposed the formula $E=mc^2$.
-In [Polyquantum 1.2](1-contribution.md) C. Charlie extended it to a particle moving at velocity $v$:
+In [Polyquantum 1.2](2-contribution.md) C. Charlie extended it to a particle moving at velocity $v$:
 
 $$
 E =  \frac{m_0 c^2}{\sqrt{1 - \left( \frac{v}{c} \right)^2}} ,

@@ -2,7 +2,7 @@ name: Create folder and README.md in docs associated with a new issue
 
 on:
   issues:
-    types: [opened, edited]
+    types: [opened]
 
 permissions:
   contents: write

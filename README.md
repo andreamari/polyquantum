@@ -46,3 +46,10 @@ By using [Git](https://it.wikipedia.org/wiki/Git_(software))’s distributed ver
 ## Usage of Issues vs. Markdown files
 - **Issues** are optimal for brainstorming, discussions, and quick comments. Authorship is not tracked by Git (similar to blog or social media posts).
 - **Markdown files** are for more refined ideas/solutions/calculations worth preserving as a permanent record in the Git history. Such files are referenced, tracked, and version-controlled. Authorship is permanently preserved (similar to publishing on the [arXiv](https://en.wikipedia.org/wiki/ArXiv) repository).
+
+## Feedback & Suggestions
+For general comments, feedback, or suggestions about the structure of Polyquantum, please ⚠️**do not open a new Issue**⚠️. Instead, use the [**Discussions**](https://github.com/andreamari/polyquantum/discussions) section.
+This helps keep the [**Issues**](https://github.com/andreamari/polyquantum/issues) section clean and focused on research projects.
+
+## License
+👉 Contributions and the structure of this repository are licensed under the terms described in [LICENSE.md](LICENSE.md).

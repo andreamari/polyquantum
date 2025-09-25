@@ -1,5 +1,5 @@
 #  [TEMPLATE] This is a template for a new research idea/project/problem.
-Write author(s) here, e.g., _Alice and Bob_  
+Write author(s) here, e.g., Alice and Bob
 Write affiliation(s) here, e.g., _University of Alice and Bob_  
 
 Write here a **detailed description** of your new **research idea/project/problem**.  

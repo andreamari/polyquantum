@@ -33,5 +33,5 @@ where $m_0$ is the rest mass of the particle.
 [^1]: Charlie, *Another very important paper*, *Physics Journal* 1, 00002 (2025).
 
 ## How to cite this document (Optional)
-Short reference: _Plyquantum 1.3_.\
+Short reference: _Polyquantum 1.3_.\
 Full reference: _A. Alice, On the extended formula proposed by C. Charlie, Polyquantum 1.3, (2025)_.

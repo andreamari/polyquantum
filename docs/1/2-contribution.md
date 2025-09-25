@@ -40,5 +40,5 @@ where $m_0$ is the rest mass of the particle [^1].
 
 
 ## How to cite this document (Optional)
-Short reference: _Plyquantum 1.2_.\
+Short reference: _Polyquantum 1.2_.\
 Full reference: _C. Charlie, An extension of the initial formula by Alice and Bob, Polyquantum 1.2, (2025)_.

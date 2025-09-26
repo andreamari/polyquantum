@@ -10,8 +10,8 @@ There are many ways to add or modify files on GitHub. However, if you are not fa
 
 1. If you want to contribute to an existing Polyquantum project, jump to point 2.\
    If you want to contribute a new research idea/project/problem:
-    - First, open a [new issue](https://github.com/andreamari/polyquantum/issues/new/choose).
-    - After the issue is created, a new subfolder `/docs/[ISSUE_NUMBER]/` will be generated.
+    - If you haven't done it yet, open a [new issue](https://github.com/andreamari/polyquantum/issues/new/choose).
+    - After the issue is created, a new folder `/docs/[ISSUE_NUMBER]/` will be generated.
 2. Navigate to the subfolder corresponding to the Polyquantum project you’d like to contribute to.
 3. Click the _Add file_ button at the top right.
 4. Click the _Fork this repository_ button (only required for your first contribution).

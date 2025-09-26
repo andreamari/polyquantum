@@ -12,7 +12,7 @@ There are many ways to add or modify files on GitHub. However, if you are not fa
    If you want to contribute a new research idea/project/problem:
     - If you haven't done it yet, open a [new issue](https://github.com/andreamari/polyquantum/issues/new/choose).
     - After the issue is created, a new folder `/docs/[ISSUE_NUMBER]/` will be generated.
-2. Navigate to the subfolder corresponding to the Polyquantum project you’d like to contribute to.
+2. Navigate to the folder corresponding to the Polyquantum project you’d like to contribute to.
 3. Click the _Add file_ button at the top right.
 4. Click the _Fork this repository_ button (only required for your first contribution).
 5. Name your file using a progressive number prefix (`1-...`, `2-...`, `3-...`, etc.). E.g., if this is the first document in the project (beyond the default `README.md` file), name it `1-my-file-name.md`.  
@@ -38,7 +38,7 @@ There are many ways to add or modify files on GitHub. However, if you are not fa
 
 ## How to edit an existing markdown document
 
-1. Navigate to the subfolder corresponding to the Polyquantum project you’d like to contribute to.  
+1. Navigate to the folder corresponding to the Polyquantum project you’d like to contribute to.  
 2. Click on the name of the document you’d like to edit.  
 3. Click the _Edit_ (✏️) button at the top right.  
 4. Edit your changes directly in the online text editor:  

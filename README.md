@@ -18,7 +18,7 @@ By using [Git](https://it.wikipedia.org/wiki/Git_(software))’s distributed ver
 1. Browse the [**Issues** section](https://github.com/andreamari/polyquantum/issues) to see existing research ideas/projects/problems.  
 2. Interact and discuss by commenting on specific issues.  
 3. To contribute original material (ideas, solutions, calculations, etc.) that is worth preserving in a (Git-tracked) document:  
-   - 👉 Follow [this guide](docs/README.md) to create or edit a Markdown file in the subfolder `/docs/[ISSUE_NUMBER]/`.  For example, (for issue #1):
+   - 👉 Follow [this guide](docs/README.md) to create or edit a Markdown file in the folder `/docs/[ISSUE_NUMBER]/`.  For example, (for issue #1):
      ```
      /docs/1/2-contribution.md
      ```
@@ -30,9 +30,9 @@ By using [Git](https://it.wikipedia.org/wiki/Git_(software))’s distributed ver
 
 ## 💡 How to share a new research idea/project/problem
 1. Open a [new issue](https://github.com/andreamari/polyquantum/issues/new/choose) describing your idea/project/problem.
-2. A new subfolder `/docs/[ISSUE_NUMBER]/` containing a `README.md` file (referencing your new issue) will be automatically created. 
+2. A new folder `/docs/[ISSUE_NUMBER]/` containing a `README.md` file (referencing your new issue) will be automatically created. 
 3. To preserve your idea/project/problem in a (Git-tracked) document:  
-   - 👉 Follow [this guide](docs/README.md) to create a new Markdown file in the subfolder `/docs/[ISSUE_NUMBER]/`.  For example, (for issue #1):
+   - 👉 Follow [this guide](docs/README.md) to create a new Markdown file in the folder `/docs/[ISSUE_NUMBER]/`.  For example, (for issue #1):
      ```
      /docs/1/1-idea.md
      ```

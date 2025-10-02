@@ -73,7 +73,7 @@ As far as I know, similar ideas are in Refs[^1][^2][^3].
 
 ## How to cite this research project as a whole
 Short reference: _Polyquantum 4_.\
-Full reference: _A. Mari, Polyquantum 4, (2025)_.
+Full reference: _A. Mari, Variational quantum eigensolver based on high-order moments of the energy, Polyquantum 4, (2025)_.
 
 ## How to cite this document
 Short reference: _Polyquantum 2.1_.\

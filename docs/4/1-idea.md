@@ -52,7 +52,7 @@ Note: I guess that in order to have a non-trivial bound (better than $\mu_1$), o
 - Is this idea already implicitly or explicitly in the literature?
 
 
-# Related references
+## Related references
 
 As far as I know, similar ideas are in Refs[^1][^2][^3]. 
 

@@ -1,4 +1,4 @@
-# Polyquantum 5: A simple paraodox about quantum termodynamics
+# Polyquantum 5: A simple paradox about quantum termodynamics
 
 Here you can find all the version-controlled Markdown documents associated with this project.
 - For the full discussion, see the **original issue** andreamari/polyquantum#5.

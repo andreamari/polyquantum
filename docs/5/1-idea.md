@@ -1,4 +1,4 @@
-# A simple paraodox about quantum termodynamics
+# A simple paradox about quantum termodynamics
 Andrea Mari\
 _University of Camerino_  
 
@@ -39,8 +39,8 @@ During the full experiment no energy is ever exchanged with the external environ
 
 ## How to cite this research project as a whole
 Short reference: _Polyquantum 5_.\
-Full reference: _A. Mari, A simple paraodox about quantum termodynamics, Polyquantum 5, (2026)_.
+Full reference: _A. Mari, A simple paradox about quantum termodynamics, Polyquantum 5, (2026)_.
 
 ## How to cite this document
 Short reference: _Polyquantum 5.1_.\
-Full reference: _A. Mari, A simple paraodox about quantum termodynamics, Polyquantum 5.1, (2026)_.
+Full reference: _A. Mari, A simple paradox about quantum termodynamics, Polyquantum 5.1, (2026)_.
